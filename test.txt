@@ -1,2 +1,3 @@
 this is a test file
-another tests
+another test
+added new test cases
